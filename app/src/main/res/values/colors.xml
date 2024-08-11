@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="act_background_color">#191919</color>
+    <color name="faded_text">#666666</color>
+    <color name="spotify_green">#2E8B57</color>
+    <color name="btton_background">#0a0703</color>
+    <color name="error_red">#DC143C</color>
+    <color name="default_grey_btn_home">#282828</color>
+    <color name="pressed_btn_dark_green">#027148</color>
+</resources>

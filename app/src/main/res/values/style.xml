@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="CustomSearchFilterButton">
+     <item name="android:background">@drawable/shape_search_filter_selected</item>
+    </style>
+
+</resources>
